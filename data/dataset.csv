@@ -1,0 +1,77 @@
+id,img_path,desc_path,page,sign,eng_desc,rus_desc
+0,data/assets/1-1-img.png,data/assets/1-1-desc.png,1,1,Falling or fallen rocks,Падающие или упавшие камни
+1,data/assets/1-2-img.png,data/assets/1-2-desc.png,1,2,Cattle,Скот
+2,data/assets/1-3-img.png,data/assets/1-3-desc.png,1,3,Wild animals,Дикие животные
+3,data/assets/1-4-img.png,data/assets/1-4-desc.png,1,4,Side winds,Боковой ветер
+4,data/assets/1-5-img.png,data/assets/1-5-desc.png,1,5,Road narrows on right,Сужение дороги справа
+5,data/assets/1-6-img.png,data/assets/1-6-desc.png,1,6,Pedestrians in road ahead,Пешеходы на дороге впереди
+6,data/assets/1-7-img.png,data/assets/1-7-desc.png,1,7,Uneven road,Неровная дорога
+7,data/assets/1-8-img.png,data/assets/1-8-desc.png,1,8,Hump bridge,Горбатый мост
+8,data/assets/1-9-img.png,data/assets/1-9-desc.png,1,9,Road humps ahead,Лежачие полицейские впереди
+9,data/assets/1-10-img.png,data/assets/1-10-desc.png,1,10,Dual carriageway ends,Конец двухполосного движения
+10,data/assets/1-11-img.png,data/assets/1-11-desc.png,1,11,Overhead electric cable,Электрический кабель над дорогой
+11,data/assets/1-12-img.png,data/assets/1-12-desc.png,1,12,Risk of children-school,Опастность для школьников
+12,data/assets/1-13-img.png,data/assets/1-13-desc.png,1,13,Soft verge on left,Плавная обочина слева
+13,data/assets/1-14-img.png,data/assets/1-14-desc.png,1,14,Soft verge on right,Плавная обочина справа
+14,data/assets/1-15-img.png,data/assets/1-15-desc.png,1,15,Two-way traffic straight ahead,Двухстороннее движение впереди
+15,data/assets/1-16-img.png,data/assets/1-16-desc.png,1,16,Steep hill downwards,Крутой спуск с холма
+16,data/assets/1-17-img.png,data/assets/1-17-desc.png,1,17,Steep hill upwards,Крутой подъём на холм
+17,data/assets/1-18-img.png,data/assets/1-18-desc.png,1,18,Crossroad with priority over vehicles from the right,Перекрёсток с приоритетом над транспортными средствами справа
+18,data/assets/1-19-img.png,data/assets/1-19-desc.png,1,19,Available width of headroom indicated,Максимальная высота транспортного средства указана
+19,data/assets/1-20-img.png,data/assets/1-20-desc.png,1,20,Slippery road,Скользкая дорога
+20,data/assets/1-21-img.png,data/assets/1-21-desc.png,1,21,Road narrows on left,Сужение дороги слева
+21,data/assets/1-22-img.png,data/assets/1-22-desc.png,1,22,Road narrows on on both sides,Сужение дороги с двух сторон
+22,data/assets/1-23-img.png,data/assets/1-23-desc.png,1,23,Loose chippings,Сыпучий щебень
+23,data/assets/1-24-img.png,data/assets/1-24-desc.png,1,24,Zebra crossing,Пешеходный переход зебра
+24,data/assets/1-25-img.png,data/assets/1-25-desc.png,1,25,Risk children ahead,Опастность детей впереди
+25,data/assets/1-26-img.png,data/assets/1-26-desc.png,1,26,Risk of ice,Опастность обледенения
+26,data/assets/1-27-img.png,data/assets/1-27-desc.png,1,27,Tunnel ahead,Впереди тоннель
+27,data/assets/1-28-img.png,data/assets/1-28-desc.png,1,28,Traffic signals,Светофор
+28,data/assets/1-29-img.png,data/assets/1-29-desc.png,1,29,Tractors ahead,Впереди тракторы
+29,data/assets/1-30-img.png,data/assets/1-30-desc.png,1,30,Level crossing with barrier or gate ahead,Железнодорожный переезд с шлагбаумом или воротами впереди
+30,data/assets/2-1-img.png,data/assets/2-1-desc.png,2,1,Two-way traffic crosses one-way road,Двухстороннее движение пересекает одностороннее движение
+31,data/assets/2-2-img.png,data/assets/2-2-desc.png,2,2,Trams crossing ahead,Впереди дорогу пересекают трамвайные рельсы
+32,data/assets/2-3-img.png,data/assets/2-3-desc.png,2,3,Traffic queues likely ahead,Впереди вероятны пробки
+33,data/assets/2-4-img.png,data/assets/2-4-desc.png,2,4,Low flying helicopters,Низколетающие вертолёты
+34,data/assets/2-5-img.png,data/assets/2-5-desc.png,2,5,Bend to left,Левый поворот
+35,data/assets/2-6-img.png,data/assets/2-6-desc.png,2,6,Frail (or blind or disabled if shown) pedestrians likely to crossroad ahead,Инвалиды могут переходить дорогу впереди
+36,data/assets/2-7-img.png,data/assets/2-7-desc.png,2,7,Roundabout,Круговое движение
+37,data/assets/2-8-img.png,data/assets/2-8-desc.png,2,8,Road works,Дорожные работы
+38,data/assets/2-9-img.png,data/assets/2-9-desc.png,2,9,Low-flying aircraft or sudden aircraft noise,Низколетающие самолёты или внезапный шум их двигателей
+39,data/assets/2-10-img.png,data/assets/2-10-desc.png,2,10,Slow moving vehicles on hill likely ahead,Вероятность малодвижущихся транспортных средств на холме впереди
+40,data/assets/2-11-img.png,data/assets/2-11-desc.png,2,11,Double bend first to right,Двойной поворот сначала направо
+41,data/assets/2-12-img.png,data/assets/2-12-desc.png,2,12,Double bend first to left,Двойной поворот сначала налево
+42,data/assets/2-13-img.png,data/assets/2-13-desc.png,2,13,Level crossing without barrier or gate ahead,Железнодорожный переезд без шлагбаума или ворот впереди
+43,data/assets/2-14-img.png,data/assets/2-14-desc.png,2,14,Risk of grounding,Вероятность задеть землю дном
+44,data/assets/2-15-img.png,data/assets/2-15-desc.png,2,15,Bend to right,Поворот направо
+45,data/assets/2-16-img.png,data/assets/2-16-desc.png,2,16,Staggered junction,Ступенчатый перекрёсток
+46,data/assets/2-17-img.png,data/assets/2-17-desc.png,2,17,Traffic merging from left ahead,Впереди дорожное слияние слева
+47,data/assets/2-18-img.png,data/assets/2-18-desc.png,2,18,Traffic merging from right ahead,Впереди дорожное слияние справа
+48,data/assets/2-19-img.png,data/assets/2-19-desc.png,2,19,Crossroads,Перекрёсток
+49,data/assets/2-20-img.png,data/assets/2-20-desc.png,2,20,Junction on bend from right ahead,Впереди соединение дороги на повороте справа
+50,data/assets/2-21-img.png,data/assets/2-21-desc.png,2,21,Junction on bend from left ahead,Впереди соединение дороги на повороте слева
+51,data/assets/2-22-img.png,data/assets/2-22-desc.png,2,22,Junction on right ahead,Впереди соединение дороги справа
+52,data/assets/2-23-img.png,data/assets/2-23-desc.png,2,23,Junction on left ahead,Впереди соединение дороги слева
+53,data/assets/2-24-img.png,data/assets/2-24-desc.png,2,24,Other danger,Прочая опастность
+54,data/assets/2-25-img.png,data/assets/2-25-desc.png,2,25,Countdown  markers to a level crossing. Each line represents 1/3 of the distance to the crossing,Маркеры обратного отсчёта до железнодорожного переезда. Каждая полоска означает 1/3 дистанции до переезда
+55,data/assets/2-26-img.png,data/assets/2-26-desc.png,2,26,Level crossing without barrier,Железнодорожный переезд без шлагбаума
+56,data/assets/2-27-img.png,data/assets/2-27-desc.png,2,27,Distance to `STOP` line ahead,Расстояние до полосы перед знаком СТОП
+57,data/assets/2-28-img.png,data/assets/2-28-desc.png,2,28,Distance to `Give Way` line ahead,Расстояние до полосы перед знаком `Уступи дорогу`
+58,data/assets/2-29-img.png,data/assets/2-29-desc.png,2,29,Disabled parking only,Парковка только для инвалидов
+59,data/assets/2-30-img.png,data/assets/2-30-desc.png,2,30,Except disabled parking only,Парковка для всех кроме инвалидов
+60,data/assets/3-1-img.png,data/assets/3-1-desc.png,3,1,No wheelbarrows,Никаких тачек
+61,data/assets/3-2-img.png,data/assets/3-2-desc.png,3,2,No motorbikes,Никаких мотоциклов
+62,data/assets/3-3-img.png,data/assets/3-3-desc.png,3,3,No mopeds,Никаких мопедов
+63,data/assets/3-4-img.png,data/assets/3-4-desc.png,3,4,No pedestrians,Никаких пешеходов
+64,data/assets/3-5-img.png,data/assets/3-5-desc.png,3,5,No entry for vehicular traffic,Въезд автотранспорта запрещён
+65,data/assets/3-6-img.png,data/assets/3-6-desc.png,3,6,No motor vehicles except two-wheeled vehicles,Запрещён въезд любого автотранспорта кроме двухколёсного
+66,data/assets/3-7-img.png,data/assets/3-7-desc.png,3,7,No tractors,Никаких тракторов
+67,data/assets/3-8-img.png,data/assets/3-8-desc.png,3,8,No animal-pulled vehicles,Никакого гужевого транспорта
+68,data/assets/3-9-img.png,data/assets/3-9-desc.png,3,9,Stop for toll post,Остановка у поста для взимания платы
+69,data/assets/3-10-img.png,data/assets/3-10-desc.png,3,10,Maximum speed,Максимальная скорость
+70,data/assets/3-11-img.png,data/assets/3-11-desc.png,3,11,No use of horn,Не бибикать
+71,data/assets/3-12-img.png,data/assets/3-12-desc.png,3,12,Stop for customs,Остановка у таможни
+72,data/assets/3-13-img.png,data/assets/3-13-desc.png,3,13,Minimum distance to be kept with the vehicle in front,Минимальная дистанция до транспортного средства впереди
+73,data/assets/3-14-img.png,data/assets/3-14-desc.png,3,14,No motor vehicles,Никакого автотранспорта
+74,data/assets/3-15-img.png,data/assets/3-15-desc.png,3,15,End of no overtaking restriction,Окончание зоны запрета опережения
+75,data/assets/3-16-img.png,data/assets/3-16-desc.png,3,16,No right turn,Запрет правого поворота
