@@ -75,3 +75,75 @@ id,img_path,desc_path,page,sign,eng_desc,rus_desc
 73,data/assets/3-14-img.png,data/assets/3-14-desc.png,3,14,No motor vehicles,Никакого автотранспорта
 74,data/assets/3-15-img.png,data/assets/3-15-desc.png,3,15,End of no overtaking restriction,Окончание зоны запрета опережения
 75,data/assets/3-16-img.png,data/assets/3-16-desc.png,3,16,No right turn,Запрет правого поворота
+76,data/assets/3-17-img.png,data/assets/3-17-desc.png,3,17,No right turn,Запрет правого поворота
+77,data/assets/3-18-img.png,data/assets/3-18-desc.png,3,18,No left turn,Запрет левого поворота
+78,data/assets/3-19-img.png,data/assets/3-19-desc.png,3,19,No vehicles through with more than 8 tonnes on each asle,Зпарет проезда транспортных средств с более чем 8 тоннами на каждую ось
+79,data/assets/3-20-img.png,data/assets/3-20-desc.png,3,20,End of all restrictions (national speed limits applies),Конец действия всех ограничений скорости (кроме государственных)
+80,data/assets/3-21-img.png,data/assets/3-21-desc.png,3,21,End of maximum speed,Конец ограничения максимальной скорости
+81,data/assets/3-22-img.png,data/assets/3-22-desc.png,3,22,Give priority to veicles from opposite direction,Предоставление приоритета встречному транспорту
+82,data/assets/3-23-img.png,data/assets/3-23-desc.png,3,23,No overtaking,Запрет обгонов
+83,data/assets/3-24-img.png,data/assets/3-24-desc.png,3,24,No vehicles over weight shown,Никаких транспортных средств более показанной массы
+84,data/assets/3-25-img.png,data/assets/3-25-desc.png,3,25,No U-turns,Запрет разворота
+85,data/assets/3-26-img.png,data/assets/3-26-desc.png,3,26,No overtaking by goods vehicles,Запрет опережения грузовиками
+86,data/assets/3-27-img.png,data/assets/3-27-desc.png,3,27,No vehicles over width shown,Никаких транспортных средств ширина которых превышает указанное значение
+87,data/assets/3-28-img.png,data/assets/3-28-desc.png,3,28,No vehicles over hight shown,Никаких транспортных средств высота которых превышает указанное значение
+88,data/assets/3-29-img.png,data/assets/3-29-desc.png,3,29,No vehicle or combination of vehicles over length shown,"Никаких транспортных средств или их комбинаций, длинна которых превышает указанное значение"
+89,data/assets/3-30-img.png,data/assets/3-30-desc.png,3,30,No carring materials that can pollute water,Запрещён провоз материалов способных загрязнить воду
+90,data/assets/4-1-img.png,data/assets/4-1-desc.png,4,1,No vehicles carryng explosives,Запрещён провоз взрывчатых веществ
+91,data/assets/4-2-img.png,data/assets/4-2-desc.png,4,2,No vehicles except bicycles being pushed,Запрещён проезд велосипедов за исключением толкаемых велосипедов
+92,data/assets/4-3-img.png,data/assets/4-3-desc.png,4,3,No towed caravans,Никаких прицепов
+93,data/assets/4-4-img.png,data/assets/4-4-desc.png,4,4,No goods vehicles over maximum gross weight shown (in tonnes),Никаких грузовиков общей массой выше указанного значения (в тоннах)
+94,data/assets/4-5-img.png,data/assets/4-5-desc.png,4,5,No goods vehicles,Никаких грузовиков
+95,data/assets/4-6-img.png,data/assets/4-6-desc.png,4,6,Stop for police,Остановка для проверки полицией
+96,data/assets/4-7-img.png,data/assets/4-7-desc.png,4,7,Stop and give a way,Остановка для пропуска транспорта
+97,data/assets/4-8-img.png,data/assets/4-8-desc.png,4,8,End of road with priority of movement,Конец главной дороги
+98,data/assets/4-9-img.png,data/assets/4-9-desc.png,4,9,Priority of movement,Главная дорога
+99,data/assets/4-10-img.png,data/assets/4-10-desc.png,4,10,School crossing patrol,Школьный контроль перехода дороги
+100,data/assets/4-11-img.png,data/assets/4-11-desc.png,4,11,Traffic has priority over oncoming vehicles,Приоритет перед встречным движением
+101,data/assets/4-12-img.png,data/assets/4-12-desc.png,4,12,Box junction sign,Перекрёсток с вафельной разметкой
+102,data/assets/4-13-img.png,data/assets/4-13-desc.png,4,13,Give the way to traffic on major road,Уступи дорогу
+103,data/assets/4-14-img.png,data/assets/4-14-desc.png,4,14,Manually operated temporary STOP and GO signs,Используемыe вручную временные знаки STOP и GO
+104,data/assets/4-15-img.png,data/assets/4-15-desc.png,4,15,No parking,Запрет парковки
+105,data/assets/4-16-img.png,data/assets/4-16-desc.png,4,16,No stopping or parking (Clearway),Запрет парковки и остановки
+106,data/assets/4-17-img.png,data/assets/4-17-desc.png,4,17,No parking zone with limited duration,Запрет парковки с ограниченным временем
+107,data/assets/4-18-img.png,data/assets/4-18-desc.png,4,18,End of no parking zone with limited duration,Конец зоны запрета парковки с ограниченным временем
+108,data/assets/4-19-img.png,data/assets/4-19-desc.png,4,19,Parking in rotation. No parking on odd days of the month,Парковка по очереди. Парковка запрещена в нечётные дни месяца
+109,data/assets/4-20-img.png,data/assets/4-20-desc.png,4,20,Parking in rotation. No parking on even days of the month,Парковка по очереди. Парковка запрещена в чётные дни месяца
+110,data/assets/4-21-img.png,data/assets/4-21-desc.png,4,21,Parking place,Парковка
+111,data/assets/4-22-img.png,data/assets/4-22-desc.png,4,22,Pedestrians must wait,Пешеходы должны ждать
+112,data/assets/4-23-img.png,data/assets/4-23-desc.png,4,23,Pedestrians may proceed if safe,Пешеходы могут идти если это безопасно
+113,data/assets/4-24-img.png,data/assets/4-24-desc.png,4,24,Green means you may go on if the way is clear,"Зелёный ообозначает, что можно ехать если путь свободен"
+114,data/assets/4-25-img.png,data/assets/4-25-desc.png,4,25,Amber means `Stop` at the stop line,Жёлтый означает необходимость остановки перед `Стоп` линией
+115,data/assets/4-26-img.png,data/assets/4-26-desc.png,4,26,Red means `Stop`,Красный означает `Стоп`
+116,data/assets/4-27-img.png,data/assets/4-27-desc.png,4,27,RED AND AMBER also means `Stop`,КРАСНЫЙ И ЖЁЛТЫЙ так же означают `Стоп`
+117,data/assets/4-28-img.png,data/assets/4-28-desc.png,4,28,A GREEN ARROW means yo may go but only in the direction shown by the arrow,"ЗЕЛЁНАЯ СТРЕЛКА означает что можно двигаться, но только в направлении стрелки"
+118,data/assets/4-29-img.png,data/assets/4-29-desc.png,4,29,FLASHING AMBER means proceed if your exit is clear,МИГАЮЩИЙ ЖЁЛТЫЙ означает что можно двигаться если путь свободен
+119,data/assets/5-1-img.png,data/assets/5-1-desc.png,5,1,Ahead only,Только прямо
+120,data/assets/5-2-img.png,data/assets/5-2-desc.png,5,2,Turn left,Поворот налево
+121,data/assets/5-3-img.png,data/assets/5-3-desc.png,5,3,Turn right,Поворот направо
+122,data/assets/5-4-img.png,data/assets/5-4-desc.png,5,4,Keep left,Держаться левее
+123,data/assets/5-5-img.png,data/assets/5-5-desc.png,5,5,Keep right,Держаться правее
+124,data/assets/5-6-img.png,data/assets/5-6-desc.png,5,6,Vehicles may pass either side to reach same destination,Транспортные средства могут держаться обеих сторон с сохранением направления
+125,data/assets/5-7-img.png,data/assets/5-7-desc.png,5,7,Turn left ahead,Впереди поворот налево
+126,data/assets/5-8-img.png,data/assets/5-8-desc.png,5,8,Turn right ahead,Впереди поворот направо
+127,data/assets/5-9-img.png,data/assets/5-9-desc.png,5,9,Mini-roundabout (roundabout circulation - give way to vehicles from the immediate right),Мини-круговое движжение (Уступать дорогу средствам движущимся непосредственно справа)
+128,data/assets/5-10-img.png,data/assets/5-10-desc.png,5,10,Minimum speed,Минимальная скорость
+129,data/assets/5-11-img.png,data/assets/5-11-desc.png,5,11,End of minimum speed,Конец минимальной скорости
+130,data/assets/5-12-img.png,data/assets/5-12-desc.png,5,12,Route to be used by horse riders only,Дорога только для конных всадников
+131,data/assets/5-13-img.png,data/assets/5-13-desc.png,5,13,Compulsory use of wheel chains,Обязательное использование колёсных цепей
+132,data/assets/5-14-img.png,data/assets/5-14-desc.png,5,14,Pedestrian route,Пешеходная дорога
+133,data/assets/5-15-img.png,data/assets/5-15-desc.png,5,15,Turn left or right only,Поворот только налево или направо
+134,data/assets/5-16-img.png,data/assets/5-16-desc.png,5,16,Ahead or left only,Движение только прямо или налево
+135,data/assets/5-17-img.png,data/assets/5-17-desc.png,5,17,Ahead or right only,Движение только прямо или направо
+136,data/assets/5-18-img.png,data/assets/5-18-desc.png,5,18,One way traffic (note: compare circular `Ahead only` sign),Одностороннее движение (примечание: похож на знак `Только прямо`)
+137,data/assets/5-19-img.png,data/assets/5-19-desc.png,5,19,One way traffic,Одностороннее движение
+138,data/assets/5-20-img.png,data/assets/5-20-desc.png,5,20,Taxi parking point,Парковка для такси
+139,data/assets/5-21-img.png,data/assets/5-21-desc.png,5,21,Single white line^ no parking or overtaking,Одна сплошная белая линия: запрет парковки или обгона
+140,data/assets/5-22-img.png,data/assets/5-22-desc.png,5,22,Double white lines: no parking or overtaking,Двойная сплошная белая линия: запрет парковки или обгона
+141,data/assets/5-23-img.png,data/assets/5-23-desc.png,5,23,Single white lines rules applies to left but overtaking allowed from right,"Правило сплошной белой линии применяется слева, но обгон разрешён справа"
+142,data/assets/5-24-img.png,data/assets/5-24-desc.png,5,24,Lane dividers: overtaking is allowed,Разделитили полос: обгон разрешён
+143,data/assets/5-25-img.png,data/assets/5-25-desc.png,5,25,"Zigzag lines found on the side of pedestrian crossings^ No parking, waiting or overtaking","Зигзагообразные линии находятся по краям пешеходных переходов: запрещено парковаться, останавливаться или обгонять"
+144,data/assets/5-26-img.png,data/assets/5-26-desc.png,5,26,"Single white line: depicts the side of the carriageway, no parking","Сплошная белая линия: означает сторону проезжей части, запрещено парковаться"
+145,data/assets/5-27-img.png,data/assets/5-27-desc.png,5,27,"Single yellow line: depicts the side of the carriageway, no parking","Сплошная жёлтая линия: означает сторону проезжей части, запрещено парковаться"
+146,data/assets/5-28-img.png,data/assets/5-28-desc.png,5,28,"Double yellow lines: depicts the side of the carriageway, no parking or stopping","Двойная сплошная жёлтая линия: означает сторону проезжей части, запрещено парковаться или останавливаться"
+147,data/assets/5-29-img.png,data/assets/5-29-desc.png,5,29,"Broken white lines: depicts an exit or bus stop, no parking or stopping","Пунктирная белая линия: означает выезд или автобусную остановку, запрещено парковаться или останавливаться"
