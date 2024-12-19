@@ -147,3 +147,118 @@ id,img_path,desc_path,page,sign,eng_desc,rus_desc
 145,data/assets/5-27-img.png,data/assets/5-27-desc.png,5,27,"Single yellow line: depicts the side of the carriageway, no parking","Сплошная жёлтая линия: означает сторону проезжей части, запрещено парковаться"
 146,data/assets/5-28-img.png,data/assets/5-28-desc.png,5,28,"Double yellow lines: depicts the side of the carriageway, no parking or stopping","Двойная сплошная жёлтая линия: означает сторону проезжей части, запрещено парковаться или останавливаться"
 147,data/assets/5-29-img.png,data/assets/5-29-desc.png,5,29,"Broken white lines: depicts an exit or bus stop, no parking or stopping","Пунктирная белая линия: означает выезд или автобусную остановку, запрещено парковаться или останавливаться"
+148,data/assets/6-1-img.png,data/assets/6-1-desc.png,6,1,Give way T-junction: give way to traffic on major road,Знак `Уступи дорогу` на Т-образном перекрёстке: уступите дорогу транспорту на главной дороге
+149,data/assets/6-2-img.png,data/assets/6-2-desc.png,6,2,Stop T-junction: stop and give way,Знак СТОП на Т-образном перекрёстке: остановитесь и уступите дорогу
+150,data/assets/6-3-img.png,data/assets/6-3-desc.png,6,3,Box junction: do not enter the box unless your exit is clear. Only stop in the box if you are turning right,Перекрёсток с вафельной разметкой: не заезжайте на разметку пока выезд не свободен. Останавливайтесь на разметке только при повороте направо
+151,data/assets/6-4-img.png,data/assets/6-4-desc.png,6,4,Compulsory direction to the left,Принудительный поворот налево
+152,data/assets/6-5-img.png,data/assets/6-5-desc.png,6,5,Compulsory direction to the right,Принудительный поворот направо
+153,data/assets/6-6-img.png,data/assets/6-6-desc.png,6,6,Compulsory direction to the left or right,Принудительный поворот налево или направо
+154,data/assets/6-7-img.png,data/assets/6-7-desc.png,6,7,Compulsory directions because of traffic island or obstacle,Принудительное направление из-за островка безопасности или препятствия
+155,data/assets/6-8-img.png,data/assets/6-8-desc.png,6,8,Arrows depicting which direction you can follow,Стрелки показывающие в каком направлении вы можете двигаться
+156,data/assets/6-9-img.png,data/assets/6-9-desc.png,6,9,Arrows depicting that the first turn is prohibited but the second is permitted,Стрелки показывающие что первый поворот запрещён но второй разрешён
+157,data/assets/6-10-img.png,data/assets/6-10-desc.png,6,10,Example of a two-line roundabout showing thq lane separation,Образец двухполосного кругового движения демонстрирующий разделение полос
+158,data/assets/6-11-img.png,data/assets/6-11-desc.png,6,11,Arrows depicting lane direction on roundabouts,Стрелки демонстрирующие направление полос на круговом движении
+159,data/assets/6-12-img.png,data/assets/6-12-desc.png,6,12,Mini-roundabout,Мини-круговое движение
+160,data/assets/6-13-img.png,data/assets/6-13-desc.png,6,13,Directions to follow,Направления движения
+161,data/assets/6-14-img.png,data/assets/6-14-desc.png,6,14,I want to turn right,Я хочу повернуть направо
+162,data/assets/6-15-img.png,data/assets/6-15-desc.png,6,15,I want to turn left,Я хочу повернуть налево
+163,data/assets/6-16-img.png,data/assets/6-16-desc.png,6,16,I want to slow down or stop,Я хочу замедлиться или остановиться
+164,data/assets/6-17-img.png,data/assets/6-17-desc.png,6,17,I want to reverse,Я хочу сдать назад
+165,data/assets/6-18-img.png,data/assets/6-18-desc.png,6,18,I want to turn left,Я хочу повернуть налево
+166,data/assets/6-19-img.png,data/assets/6-19-desc.png,6,19,I want to turn right,Я хочу повернуть направо
+167,data/assets/6-20-img.png,data/assets/6-20-desc.png,6,20,I want to slow down or stop,Я хочу замедлиться или остановиться
+168,data/assets/6-21-img.png,data/assets/6-21-desc.png,6,21,I want to turn left,Я хочу повернуть налево
+169,data/assets/6-22-img.png,data/assets/6-22-desc.png,6,22,I want to turn right,Я хочу повернуть направо
+170,data/assets/6-23-img.png,data/assets/6-23-desc.png,6,23,I want to slow down or stop,Я хочу замедлиться или остановиться
+171,data/assets/6-24-img.png,data/assets/6-24-desc.png,6,24,Stop for traffic from the front,Приказ остановиться движению спереди
+172,data/assets/6-25-img.png,data/assets/6-25-desc.png,6,25,Proceed for traffic from the front,Приказ проезжать движению спереди
+173,data/assets/6-26-img.png,data/assets/6-26-desc.png,6,26,Stop for traffic from behind,Приказ остановиться движению сзади
+174,data/assets/6-27-img.png,data/assets/6-27-desc.png,6,27,Proceed for traffic from the side,Приказ проезжать движению сбоку
+175,data/assets/6-28-img.png,data/assets/6-28-desc.png,6,28,Stop for traffic from the front & from behind,Приказ остановиться движекнию спереди и сзади
+176,data/assets/6-29-img.png,data/assets/6-29-desc.png,6,29,Proceed for traffic from behind,Приказ проезжать движению сзади
+177,data/assets/7-1-img.png,data/assets/7-1-desc.png,7,1,No through road for vehicles,Нет сквозного проезда для транспортных средств
+178,data/assets/7-2-img.png,data/assets/7-2-desc.png,7,2,No through road for vehicles on left turn,Нет сквозного проезда для транспортных средств после левого поворота
+179,data/assets/7-3-img.png,data/assets/7-3-desc.png,7,3,No through road for vehicles on right turn,Нет сквозного проезда для транспортных средств после правого поворота
+180,data/assets/7-4-img.png,data/assets/7-4-desc.png,7,4,Pedestrian crossing,Пешеходный переход
+181,data/assets/7-5-img.png,data/assets/7-5-desc.png,7,5,Bus stop city routes,Автобусная остановка городских маршрутов
+182,data/assets/7-6-img.png,data/assets/7-6-desc.png,7,6,Hospital or first aid,Госпиталь или первая помощь
+183,data/assets/7-7-img.png,data/assets/7-7-desc.png,7,7,Disabled parking,Парковка для инвалидов
+184,data/assets/7-8-img.png,data/assets/7-8-desc.png,7,8,Recommended speed limit,Рекомендованая скорость
+185,data/assets/7-9-img.png,data/assets/7-9-desc.png,7,9,Airport,Аэропорт
+186,data/assets/7-10-img.png,data/assets/7-10-desc.png,7,10,Emergency telephone,Телефон для экстренных случаев
+187,data/assets/7-11-img.png,data/assets/7-11-desc.png,7,11,High speed road,Высокоскоростная дорога
+188,data/assets/7-12-img.png,data/assets/7-12-desc.png,7,12,End of high speed road,Конец высокоскоростной дороги
+189,data/assets/7-13-img.png,data/assets/7-13-desc.png,7,13,Subway exit,Выход из подземного перехода
+190,data/assets/7-14-img.png,data/assets/7-14-desc.png,7,14,Subway entrance,Вход в подземный переход
+191,data/assets/7-15-img.png,data/assets/7-15-desc.png,7,15,Ramp,Рампа
+192,data/assets/7-16-img.png,data/assets/7-16-desc.png,7,16,Workshops,Мастерские
+193,data/assets/7-17-img.png,data/assets/7-17-desc.png,7,17,Telephone,Телефон
+194,data/assets/7-18-img.png,data/assets/7-18-desc.png,7,18,Petrol pump,Авто-заправочная станция
+195,data/assets/7-19-img.png,data/assets/7-19-desc.png,7,19,Hotel,Гостиница
+196,data/assets/7-20-img.png,data/assets/7-20-desc.png,7,20,Restaurant,Ресторан
+197,data/assets/7-21-img.png,data/assets/7-21-desc.png,7,21,Cafeteria,Кафе
+198,data/assets/7-22-img.png,data/assets/7-22-desc.png,7,22,Pictic area,Зона для пикника
+199,data/assets/7-23-img.png,data/assets/7-23-desc.png,7,23,Hiking starting point,Точка начала туристического маршрута
+200,data/assets/7-24-img.png,data/assets/7-24-desc.png,7,24,Tunnel,Тоннель
+201,data/assets/7-25-img.png,data/assets/7-25-desc.png,7,25,Helipad,Вертолётная площадка
+202,data/assets/7-26-img.png,data/assets/7-26-desc.png,7,26,Camping site,Место для установки палаток
+203,data/assets/7-27-img.png,data/assets/7-27-desc.png,7,27,Caravan site,Место для стоянки домов-на-колёсах
+204,data/assets/7-28-img.png,data/assets/7-28-desc.png,7,28,Camping & caravan site,Место для установки палаток и стоянки домов-на-колёсах
+205,data/assets/7-29-img.png,data/assets/7-29-desc.png,7,29,Youth center,Молодёжный центр
+206,data/assets/7-30-img.png,data/assets/7-30-desc.png,7,30,Tourist infornation,Информация для туристов
+207,data/assets/8-1-img.png,data/assets/8-1-desc.png,8,1,Road works,Дорожные работы
+208,data/assets/8-2-img.png,data/assets/8-2-desc.png,8,2,Road works: drive slowly,Дорожные работы: снизьте скорость
+209,data/assets/8-3-img.png,data/assets/8-3-desc.png,8,3,Left line must merge in 600 m,Сливание левой полосы через 600 м
+210,data/assets/8-4-img.png,data/assets/8-4-desc.png,8,4,Crossover at contraflow in 200 m,Пересечение встречного потока через 200 м
+211,data/assets/8-5-img.png,data/assets/8-5-desc.png,8,5,Road narrows on left,Дорога сужается слева
+212,data/assets/8-6-img.png,data/assets/8-6-desc.png,8,6,Motorway,Дорога для автомобилей
+213,data/assets/8-7-img.png,data/assets/8-7-desc.png,8,7,End of motorway,Конец дороги для автомобилей
+214,data/assets/8-8-img.png,data/assets/8-8-desc.png,8,8,Road open which is open as far as...,Дорога открыта до...
+215,data/assets/8-9-img.png,data/assets/8-9-desc.png,8,9,Road open to vehicles with wheel chains,Дорога открыта для транспортных средств с колёсными цепями
+216,data/assets/8-10-img.png,data/assets/8-10-desc.png,8,10,Road open to vehicles with snow tires,Дорога открыта для транспортных средств с зимней резиной
+217,data/assets/8-11-img.png,data/assets/8-11-desc.png,8,11,Bus line ahead,Впереди выделенная полоса для автобусов
+218,data/assets/8-12-img.png,data/assets/8-12-desc.png,8,12,Bus line on left,Выделенная полоса для автобусов слева
+219,data/assets/8-13-img.png,data/assets/8-13-desc.png,8,13,Bus line on left,Выделенная полоса для автобусов слева
+220,data/assets/8-14-img.png,data/assets/8-14-desc.png,8,14,With-flow bus lane which other vehicles can use to turn left,Полоса для автобусов по которой другие транспортные средства могут поворачивать налево
+221,data/assets/8-15-img.png,data/assets/8-15-desc.png,8,15,With-flow bus lane which other vehicles can use to turn left on roundabout,Полоса для автобусов по которой другие транспортные средства могут поворачивать налево на круговом движении
+222,data/assets/8-16-img.png,data/assets/8-16-desc.png,8,16,Bus lane left,Автобусная полоса слева
+223,data/assets/8-17-img.png,data/assets/8-17-desc.png,8,17,Bus lane right,Автобусная полоса справа
+224,data/assets/8-18-img.png,data/assets/8-18-desc.png,8,18,End of bus lane in 50 m,Конец автобусной полосы через 50 м
+225,data/assets/8-19-img.png,data/assets/8-19-desc.png,8,19,Bus lane,Автобусная полоса
+226,data/assets/8-20-img.png,data/assets/8-20-desc.png,8,20,Representation of bus lane,Внешний вид автобусной полосы
+227,data/assets/8-21-img.png,data/assets/8-21-desc.png,8,21,Warning of road humps ahead (50 km/h),Предупреждение о лежачих полицейских впереди (50 км/ч)
+228,data/assets/8-22-img.png,data/assets/8-22-desc.png,8,22,Warning of road humps ahead (30 km/h),Предупреждение о лежачих полицейских впереди (30 км/ч)
+229,data/assets/8-23-img.png,data/assets/8-23-desc.png,8,23,Warning of zebra crossing with road humps,Предупреждение о пешеходном переходе с дорожными неровностями
+230,data/assets/8-24-img.png,data/assets/8-24-desc.png,8,24,Warning of pelican crossing with road humps,Предупреждение о пешеходном переходе со светофором и дорожными неровностями
+231,data/assets/8-25-img.png,data/assets/8-25-desc.png,8,25,Warning of school ahead,Предупреждение о школе впереди
+232,data/assets/8-26-img.png,data/assets/8-26-desc.png,8,26,Built-up area,Зона жилой застройки
+233,data/assets/8-27-img.png,data/assets/8-27-desc.png,8,27,End of built-up area,Конец зоны жилой застройки
+234,data/assets/8-28-img.png,data/assets/8-28-desc.png,8,28,Warning if the direction of road humps when entering a main road,Предупреждение о направлении с лежачими полицейскими при выезде на основную дорогу
+235,data/assets/9-1-img.png,data/assets/9-1-desc.png,9,1,Arrows depicting lane direction on a 2 lane roundabout,Стрелки демонстрируют направление движения на второй полосе кругового движения
+236,data/assets/9-2-img.png,data/assets/9-2-desc.png,9,2,Arrows depicting lane direction on a 2 lane roundabout,Стрелки демонстрируют направление движения на 2 полосе кругового движения
+237,data/assets/9-3-img.png,data/assets/9-3-desc.png,9,3,Arrows depicting lane direction on a 3 lane roundabout,Стрелки демонстрируют направление движения на 3 полосе кругового движения
+238,data/assets/9-4-img.png,data/assets/9-4-desc.png,9,4,Arrows depicting lane direction on a 2 lane roundabout,Стрелки демонстрируют направление движения на 2 полосе кругового движения
+239,data/assets/9-5-img.png,data/assets/9-5-desc.png,9,5,Arrows depicting lane direction on a 2 lane roundabout,Стрелки демонстрируют направление движения на 2 полосе кругового движения
+240,data/assets/9-6-img.png,data/assets/9-6-desc.png,9,6,Arrows depicting lane direction on a 3 lane roundabout,Стрелки демонстрируют направление движения на 3 полосе кругового движения
+241,data/assets/9-7-img.png,data/assets/9-7-desc.png,9,7,Roundabout with 2 lanes,Круговое движение с 2 полосами
+242,data/assets/9-8-img.png,data/assets/9-8-desc.png,9,8,Roundabout with 2 lanes,Круговое движение с 2 полосами
+243,data/assets/9-9-img.png,data/assets/9-9-desc.png,9,9,Roundabout with 3 lanes,Круговое движение с 3 полосами
+244,data/assets/9-10-img.png,data/assets/9-10-desc.png,9,10,Roundabout with 3 lanes,Круговое движение с 3 полосами
+245,data/assets/9-11-img.png,data/assets/9-11-desc.png,9,11,Vehicles in middle lane must have 2 or more people,Транспортные средства в средней полосе должны иметь 2 или более пассажиров
+246,data/assets/9-12-img.png,data/assets/9-12-desc.png,9,12,Vehicles going left must have 2 or more people,Транспортные средства поворачивающие налево должны иметь 2 или более пассажиров
+247,data/assets/9-13-img.png,data/assets/9-13-desc.png,9,13,Vehicles going left & right must have 2 or more people,Транспортные средства поворачивающие налево и направо должны иметь 2 или более пассажиров
+248,data/assets/9-14-img.png,data/assets/9-14-desc.png,9,14,Vehicles in left lane must have 2 or more people,Транспортные средства в левой полосе должны иметь 2 или более пассажиров
+249,data/assets/9-15-img.png,data/assets/9-15-desc.png,9,15,Vehicles in middle lane must have 2 or more people,Транспортные средства в средней полосе должны иметь 2 или более пассажиров
+250,data/assets/9-16-img.png,data/assets/9-16-desc.png,9,16,End of above restrictions in left lane,Конец указанных ограничений в левой полосе
+251,data/assets/9-17-img.png,data/assets/9-17-desc.png,9,17,Middle lane turning right with above restrictions of use,Поворот из средней полосы с указанными ограничениями
+252,data/assets/9-18-img.png,data/assets/9-18-desc.png,9,18,Start of middle lane with above restrictions of use,Начало средней полосы с указанными ограничениями
+253,data/assets/9-19-img.png,data/assets/9-19-desc.png,9,19,Left lane with above restrictions of use,Левая полоса с указанными ограничениями
+254,data/assets/9-20-img.png,data/assets/9-20-desc.png,9,20,Start of left lane turning left with above restrictions of use,Начало поворота левой полосы налево с указанными ограничениями
+255,data/assets/9-21-img.png,data/assets/9-21-desc.png,9,21,Start of left with above restrictions of use,Начало левой полосы с указанными ограничениями
+256,data/assets/9-22-img.png,data/assets/9-22-desc.png,9,22,Middle lane with above restrictions of use,Средняя полоса с указанными ограничениями
+257,data/assets/10-1-img.png,data/assets/10-1-desc.png,10,1,Blind spots (areas that you can not see with your mirrors),"Слепые зоны (зоны, которые вы не можете видеть в зеркала заднего вида)"
+258,data/assets/10-2-img.png,data/assets/10-2-desc.png,10,2,The 2 rear blind spots of the blue car,Две задние слепые зоны синего автомобиля
+259,data/assets/10-3-img.png,data/assets/10-3-desc.png,10,3,The two second rule (your thinking distance),Правило двух секунд (ваша мнимая дистанция)
+260,data/assets/10-4-img.png,data/assets/10-4-desc.png,10,4,Your thinking and stopping distances,Ваши минимые и реальные дистанции до остановки
+261,data/assets/10-5-img.png,data/assets/10-5-desc.png,10,5,Keep apart 2 chevrons with the vehicle in front of you when driving (2 chevrons = 2 seconds = Two second rule),Держитесь на расстоянии двух шевронов до транспортного средства впереди (2 шеврона = 2 секунды = Правило двух секунд)
+262,data/assets/10-6-img.png,data/assets/10-6-desc.png,10,6,Tilted parallel white lines within a continuous white line indicate a traffic island and it is a part of the road that must not be used by vehicles,"Белая косая штриховка внутри фигрур показывает островок безопасности и это часть дороги, которая не должна использоваться транспортными средствами"
